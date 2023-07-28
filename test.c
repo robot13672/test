@@ -10,3 +10,8 @@ void	print(char *str)
 {
 	int a = 4;
 }
+
+void sayHello()
+{
+	printf("Hello");
+}
