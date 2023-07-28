@@ -4,5 +4,5 @@ int	main()
 {
 	printf("Xyi");
 	printf("Sosi");
-	int a  = 10;
+	int a  = 5;
 }
