@@ -17,5 +17,5 @@ void sayHello()
 }
 void print_hexa()
 {
-	printf("0123456789abcdef");
+	printf("0123456789abcef");
 }
