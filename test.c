@@ -3,6 +3,5 @@
 int	main()
 {
 	printf("Xyi");
-	printf("Sosi");
-	int a  = 5;
+	int a = 5;
 }
