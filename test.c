@@ -11,13 +11,11 @@ void	sss(char *str)
 {
 	int a = 135;
 }
-
-void	print(char *str)
-{
-	int a = 4;
-}
-
 void sayHello()
 {
 	printf("Hello");
+}
+void print_hexa()
+{
+	printf("0123456789abcdef");
 }
