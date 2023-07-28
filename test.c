@@ -8,5 +8,5 @@ int	main()
 
 void	sss(char *str)
 {
-	int a = 4;
+	int a = 135;
 }
