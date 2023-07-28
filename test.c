@@ -5,3 +5,8 @@ int	main()
 	printf("Xyi");
 	int a = 5;
 }
+
+void	print(char *str)
+{
+	int a = 4;
+}
