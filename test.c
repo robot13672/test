@@ -11,3 +11,13 @@ void	sss(char *str)
 {
 	int a = 135;
 }
+
+void	print(char *str)
+{
+	int a = 4;
+}
+
+void sayHello()
+{
+	printf("Hello");
+}
